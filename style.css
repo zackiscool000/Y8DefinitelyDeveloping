@@ -2,22 +2,22 @@
 .webgl-content {position: absolute; top: 50%; left: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);}
 
 .webgl-content .logo, .progress, .text {position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);}
-.webgl-content .logo {background: url('https://storage.y8.com/y8-studio/unity/logo.png') no-repeat center / contain; width: 154px; height: 130px;}
+.webgl-content .logo {background: url('https://eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy_orig.php?https://storage.y8.com/y8-studio/unity/logo.png') no-repeat center / contain; width: 154px; height: 130px;}
 .webgl-content .progress {height: 18px; width: 141px; margin-top: 80px;}
-.webgl-content .progress .empty {background: url('https://storage.y8.com/y8-studio/unity/progressEmpty.Light.png') no-repeat right / cover; float: right; width: 100%; height: 100%; display: inline-block;}
-.webgl-content .progress .full {background: url('https://storage.y8.com/y8-studio/unity/progressFull.Light.png') no-repeat left / cover; float: left; width: 0%; height: 100%; display: inline-block;}
+.webgl-content .progress .empty {background: url('https://eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy_orig.php?https://storage.y8.com/y8-studio/unity/progressEmpty.Light.png') no-repeat right / cover; float: right; width: 100%; height: 100%; display: inline-block;}
+.webgl-content .progress .full {background: url('https://eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy_orig.php?https://storage.y8.com/y8-studio/unity/progressFull.Light.png') no-repeat left / cover; float: left; width: 0%; height: 100%; display: inline-block;}
 .webgl-content .text { margin-top: 110px; color: white; font-weight: 700;}
 .webgl-content .spinner { vertical-align: middle; }
 
-.webgl-content .logo.Dark {background-image: url('https://storage.y8.com/y8-studio/unity/config/TemplateData/y8-logo.png'); width: 206px; height: 130px; margin: 0 auto; background-size: 206px 130px;}
+.webgl-content .logo.Dark {background-image: url('https://eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy_orig.php?https://storage.y8.com/y8-studio/unity/config/TemplateData/y8-logo.png'); width: 206px; height: 130px; margin: 0 auto; background-size: 206px 130px;}
 .webgl-content .progress.Dark .empty {background: black;}
 .webgl-content .progress.Dark .full {background: red;}
 
 .webgl-content .footer {margin-top: 5px; height: 38px; line-height: 38px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 18px;background: #fff;}
 .webgl-content .footer .webgl-logo, .title, .fullscreen {height: 100%; display: inline-block; background: transparent center no-repeat;}
-.webgl-content .footer .webgl-logo {background-image: url('https://storage.y8.com/y8-studio/unity/webgl-logo.png'); width: 204px; float: left;}
+.webgl-content .footer .webgl-logo {background-image: url('https://eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy_orig.php?https://storage.y8.com/y8-studio/unity/webgl-logo.png'); width: 204px; float: left;}
 .webgl-content .footer .title {margin-right: 10px; float: right;}
-.webgl-content .footer .fullscreen {background-image: url('https://storage.y8.com/y8-studio/unity/fullscreen.png'); width: 38px; float: right;}
+.webgl-content .footer .fullscreen {background-image: url('https://eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy_orig.php?https://storage.y8.com/y8-studio/unity/fullscreen.png'); width: 38px; float: right;}
 .webgl-content #gameContainer { background: #4D4D4D !important; }
 
 
@@ -49,23 +49,23 @@ width: 66px;
 }
 
 .webgl-content .footer .unity.enable {
-background-image: url('https://storage.y8.com/y8-studio/unity/unity-enable.png');
+background-image: url('https://eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy_orig.php?https://storage.y8.com/y8-studio/unity/unity-enable.png');
 }
 
 .webgl-content .footer .unity.disable {
-background-image: url('https://storage.y8.com/y8-studio/unity/unity-disable.png');
+background-image: url('https://eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy_orig.php?https://storage.y8.com/y8-studio/unity/unity-disable.png');
 }
 
 .webgl-content .footer .webgl.enable {
-background-image: url('https://storage.y8.com/y8-studio/unity/webgl-enable.png');
+background-image: url('https://eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy_orig.php?https://storage.y8.com/y8-studio/unity/webgl-enable.png');
 }
 
 .webgl-content .footer .webgl.disable {
-background-image: url('https://storage.y8.com/y8-studio/unity/webgl-disable.png');
+background-image: url('https://eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy_orig.php?https://storage.y8.com/y8-studio/unity/webgl-disable.png');
 }
 
 .webgl-content .footer .fullscreen {
-background-image: url('https://storage.y8.com/y8-studio/unity/maximize-icon.png');
+background-image: url('https://eusinfo.pt/seo/plugins/QuickWebProxy/miniProxy_orig.php?https://storage.y8.com/y8-studio/unity/maximize-icon.png');
 background-position: 10px center;
 background-repeat: no-repeat;
 background-size: 16px;
